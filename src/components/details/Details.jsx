@@ -1,10 +1,6 @@
-import "./details.css"
+import "./details.css";
 const Details = () => {
-  return (
-    <div>
-      Details
-    </div>
-  )
-}
+  return <div className="details">Details</div>;
+};
 
-export default Details
+export default Details;
